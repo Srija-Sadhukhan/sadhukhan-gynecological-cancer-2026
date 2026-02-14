@@ -11,8 +11,8 @@ View the full chapter on SpringerLink: [Click Here to Access](https://doi.org/10
 
 ## 📊 Supplemental Materials
 * **Data:** [exosomal miRNAs in shaping the tumor microenvironment and contributing to resistance against chemotherapy and radiotherapy]
-* **Figures:** See the `Pages 379-400` folder for more information.
+* **Figures:** See the `Pages 379-400` pages for more information.
 
 ## 🎓 Citation
 If you use this work, please cite it as:
-> [Srija Sadhukhan], "[Exploring MicroRNA-Mediated Pathways in Gynecological Cancer Progression and Therapeutic Resistance]," in *[MicroRNAs: Role in Cancer Progression, Diagnostics and Therapy]*, Springer, 2026.
+> [Banerjee, A., Sadhukhan, S., Ghoshal, A., Pramanick, K. (2026)], "[Exploring MicroRNA-Mediated Pathways in Gynecological Cancer Progression and Therapeutic Resistance]," in *[MicroRNAs: Role in Cancer Progression, Diagnostics and Therapy]*, Springer, 2026.
