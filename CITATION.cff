@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the book chapter below."
+authors:
+  - family-names: "Banerjee, A., Sadhukhan, S., Ghoshal, A., Pramanick, K."
+    given-names: "Anshumi Banerjee, Srija Sadhukhan, Anushka Ghoshal, Kousik Pramanick"
+title: "Exploring MicroRNA-Mediated Pathways in Gynecological Cancer Progression and Therapeutic Resistance"
+doi: "https://doi.org/10.1007/978-3-032-08824-6_17"
+date-released: 2026-01-12
